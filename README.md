@@ -31,7 +31,7 @@ To explore this project, clone the repository and review the contents. The key c
 ## 🛠️ How to Use
 
 - Open the Jupyter notebook to understand how data was cleaned and prepared.  
-- Review the visuals folder to see the dashboards created in Tableau.  
+- Review the Scenarios to see the dashboards created in Tableau.  
 - Use the presentation script to guide your own delivery of these insights.  
 - Optionally, recreate or modify the Tableau dashboards with the cleaned dataset for deeper analysis.
 
